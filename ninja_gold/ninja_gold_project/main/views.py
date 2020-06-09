@@ -71,7 +71,7 @@
 # output: session history with the 2 names submitted from the form
 
 
-from django.shortcuts import render, HttpResponse, redirect
+from django.shortcuts import render, redirect
 from time import strftime
 import random
 
